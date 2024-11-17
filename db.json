@@ -1,4 +1,4 @@
-{
+{"videos" : {
   "videos": [
     {
       "id": "v1",
@@ -55,4 +55,5 @@
   "nextPage": 2,
   "pageSize": 5,
   "totalVideos": 50
+}
 }
