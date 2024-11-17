@@ -1,1 +1,58 @@
-
+{
+  "videos": [
+    {
+      "id": "v1",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
+      "title": "Street Dance Performance",
+      "description": "Amazing street dance performance in New York City",
+      "likes": 15234,
+      "shares": 1890,
+      "comments": 342
+    },
+    {
+      "id": "v2",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "title": "Cooking Tutorial",
+      "description": "How to make the perfect pasta carbonara",
+      "likes": 8976,
+      "shares": 654,
+      "comments": 123
+    },
+    {
+      "id": "v3",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+      "title": "Travel Vlog",
+      "description": "Beautiful scenes from Bali beaches",
+      "likes": 25678,
+      "shares": 3421,
+      "comments": 567
+    },
+    {
+      "id": "v4",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+      "title": "Pet Compilation",
+      "description": "Cute dogs and cats doing funny things",
+      "likes": 45123,
+      "shares": 5678,
+      "comments": 789
+    },
+    {
+      "id": "v5",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+      "title": "Fitness Workout",
+      "description": "10-minute full body HIIT workout",
+      "likes": 12789,
+      "shares": 987,
+      "comments": 234
+    }
+  ],
+  "hasMore": true,
+  "nextPage": 2,
+  "pageSize": 5,
+  "totalVideos": 50
+}
